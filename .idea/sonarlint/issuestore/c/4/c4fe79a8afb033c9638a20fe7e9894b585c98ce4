@@ -1,7 +1,7 @@
 
-8squid:S1220""Move this file to a named package.8ªüÍÿÕ,
+Tsquid:S1197"8Move the array designator from the variable to the type.(ú¾ƒÜ8Ÿ‹¬©Ö,
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8ªüÍÿÕ,
-Tsquid:S1197"8Move the array designator from the variable to the type.(ú¾ƒÜ8ªüÍÿÕ,
+8squid:S1220""Move this file to a named package.8ªüÍÿÕ,
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8ªüÍÿÕ,

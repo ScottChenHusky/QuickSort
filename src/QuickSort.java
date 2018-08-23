@@ -19,7 +19,7 @@ public class QuickSort {
      */
     private void quickSort(int[] arr, int low, int high) {
         // True: when there is at least 1 item
-        if (high >= low) {
+        if (high > low) {
             int pivot = partition(arr, low, high);
             // after partition, pivot is at its proper position
             // numbers at left ; < pivot
